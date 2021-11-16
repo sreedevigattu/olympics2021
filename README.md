@@ -7,7 +7,11 @@ Used in blog [Visualise data in Maps Using GeoPandas](https://www.analyticsvidhy
 
 ## Visualise data using Parallel Coordinates plot
 
-Used in blog Visualise data using Parallel Coordinates plot. *TODO: Add a link*
+Used in blog [Visualise data using Parallel Coordinates plot](https://www.analyticsvidhya.com/blog/2021/11/visualize-data-using-parallel-coordinates-plot/)
+
+## Visualise data using the Sankey diagram
+
+Used in blog Visualise data using  Sankey diagram. *TODO: Add a link*
 
 ## Dataset used
 The [Olympics 2021](https://www.kaggle.com/arjunprasadsarkhel/2021-olympics-in-tokyo) dataset is used to illustrate the above
